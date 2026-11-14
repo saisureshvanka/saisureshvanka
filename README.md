@@ -1,6 +1,6 @@
 # Hi, I'm Sai Suresh Vanka 👋
 
-### 🚀 Senior Java Developer / Consultant @ Deloitte
+### 🚀 Senior Java Full Stack Developer / Consultant @ Deloitte
 
 <!-- Placeholder banner — uncomment and replace with your own banner URL:
 ![Banner](https://your-banner-url.png)
@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Senior Java Developer & Consultant with **7+ years of experience** across **insurance and healthcare** domains
+- 🔭 Senior Java Full Stack Developer & Consultant with **7+ years of experience** across **insurance and healthcare** domains
 - 🏥 Currently at **Deloitte**, building **LAMEDS** — a Medicaid Eligibility Determination System serving **40 Lakh+ beneficiaries**
 - ⚡ Automated manual validation workflows, **saving ~48 hours of manual effort every month**
 - 🛠️ Full-stack experience: backend processing, dynamic frontends, database optimization, and automated batch jobs
