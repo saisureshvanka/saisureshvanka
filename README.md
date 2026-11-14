@@ -45,6 +45,7 @@
 
 ### Tools & Practices
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![NextGen Framework](https://img.shields.io/badge/NextGen_Framework-4B84C8?style=for-the-badge&logoColor=white)
 ![Agile Scrum](https://img.shields.io/badge/Agile_Scrum-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
