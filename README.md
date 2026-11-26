@@ -26,12 +26,19 @@
 - **Healthcare (Medicaid):** End-user information intake, program eligibility determination, and benefits renewal processing on the **NextGen framework**
 - **Insurance:** Production support, debugging, stabilization, and feature enhancements for loan protection systems
 - **Automation:** Batch job development that replaces manual validations with scheduled, reliable processes
+- **APIs & Microservices:** RESTful API development and microservices-based integration for decoupled, scalable service communication
 
 ## 🛠️ Tech Stack
 
 ### Languages & Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![J2EE](https://img.shields.io/badge/J2EE-007396?style=for-the-badge&logo=java&logoColor=white)
+
+### Frameworks & Architecture
+![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-2b4a7d?style=for-the-badge&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logoColor=white)
 
 ### Frontend
 ![JSP](https://img.shields.io/badge/JSP-2582A0?style=for-the-badge&logo=java&logoColor=white)
